@@ -1,2 +1,2 @@
-# yashasvi-car-racing-C35
-multiplayer car racing game
+# synchronousBallMovement
+Ball moving synchronously
